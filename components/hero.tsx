@@ -36,7 +36,7 @@ export function Hero() {
     { scope: container },
   )
 
-  const title = "Innovate. Create. Inspire."
+  const title = "Research Hub"
   const splitTitle = title.split(" ").map((word, i) => (
     <span key={i} className="inline-block overflow-hidden">
       <span className="inline-block">{word}&nbsp;</span>

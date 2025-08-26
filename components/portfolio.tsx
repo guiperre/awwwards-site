@@ -29,7 +29,7 @@ export function Portfolio() {
   return (
     <div id="portfolio" className="relative py-20 px-4 sm:px-6 lg:px-8">
       <div className="text-center mb-16">
-        <h2 className="text-4xl md:text-5xl font-bold tracking-tight">Our Creations</h2>
+        <h2 className="text-4xl md:text-5xl font-bold tracking-tight">Research Hub</h2>
         <p className="mt-4 max-w-2xl mx-auto text-lg text-neutral-400">
           A selection of projects that define our passion for digital art.
         </p>

@@ -10,7 +10,7 @@ import { TransitionProvider } from "@/components/transition-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Innovate. Create. Inspire.",
+  title: "Research Hub",
   description: "Awwwards-inspired site using Next.js, GSAP, and Three.js",
     generator: 'v0.app'
 }
